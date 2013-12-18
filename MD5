@@ -1,0 +1,15 @@
+02ac14ae709600627efc5945a74129b5 *DESCRIPTION
+d11af6ce11f8931dcd42846457573e88 *NAMESPACE
+1f58eb3ded84474a40febaa7a73a8715 *R/ClassycInterp.R
+c475189e3b160c2ab0077f6c0e05f581 *R/fonctions.R
+74bc3fb720ea9ee489e414b077689af0 *man/as.list.Rd
+89656a186176b6f28ad5c1f191376d41 *man/coeffs.Rd
+485297b9d296c2867df4233f8d8f70bf *man/deviance.Rd
+636c77a073eb44c0e7e5455f1ca63c2f *man/fitted.Rd
+841b4046623241b0e6eb2896f5b56dfc *man/forwardrates.Rd
+6da2032d7ebc29b854ba6fd73e824bc4 *man/residuals.Rd
+61ff7b89c67477d69e7484d30c3ddccd *man/ycextra.Rd
+64be4909c1896576716561908be4d7ee *man/ycinter.Rd
+a578b3c21ad01717742775e85142c749 *man/ycinterextra-package.Rd
+b5b1c24468ff82890a93c5884314813f *man/ycplot.Rd
+3a188e1cd9638911175feb5e1ca862b2 *man/ycsummary.Rd
